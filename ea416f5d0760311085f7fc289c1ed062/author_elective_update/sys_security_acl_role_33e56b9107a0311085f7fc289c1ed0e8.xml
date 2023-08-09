@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 18:44:56</sys_created_on>
+        <sys_id>33e56b9107a0311085f7fc289c1ed0e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1104585_animal_0_adoption_application.x_1104585_animal_0.consumer</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_1104585_animal_0">ea416f5d0760311085f7fc289c1ed062</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">ea416f5d0760311085f7fc289c1ed062</sys_scope>
+        <sys_security_acl display_value="x_1104585_animal_0_adoption_application">3be56b9107a0311085f7fc289c1ed0cc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_33e56b9107a0311085f7fc289c1ed0e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 18:44:56</sys_updated_on>
+        <sys_user_role display_value="x_1104585_animal_0.consumer" name="x_1104585_animal_0.consumer">a2416f5d0760311085f7fc289c1ed07b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Animal Shelter Adoption Tracker">ea416f5d0760311085f7fc289c1ed062</application>
+        <file_path/>
+        <instance_id>7105838fdbb52c50387021c4059619d2</instance_id>
+        <instance_name>dev105789</instance_name>
+        <name>sys_security_acl_role_33e56b9107a0311085f7fc289c1ed0e8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-08 18:44:56</sys_created_on><sys_id>33e56b9107a0311085f7fc289c1ed0e8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1104585_animal_0_adoption_application.x_1104585_animal_0.consumer</sys_name><sys_package display_value="Animal Shelter Adoption Tracker" source="x_1104585_animal_0">ea416f5d0760311085f7fc289c1ed062</sys_package><sys_policy/><sys_scope display_value="Animal Shelter Adoption Tracker">ea416f5d0760311085f7fc289c1ed062</sys_scope><sys_security_acl display_value="x_1104585_animal_0_adoption_application">3be56b9107a0311085f7fc289c1ed0cc</sys_security_acl><sys_update_name>sys_security_acl_role_33e56b9107a0311085f7fc289c1ed0e8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-08 18:44:56</sys_updated_on><sys_user_role display_value="x_1104585_animal_0.consumer" name="x_1104585_animal_0.consumer">a2416f5d0760311085f7fc289c1ed07b</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1326234851</payload_hash>
+        <record_name>x_1104585_animal_0_adoption_application.x_1104585_animal_0.consumer</record_name>
+        <reverted_from/>
+        <source>26416f5d0760311085f7fc289c1ed071</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 18:44:56</sys_created_on>
+        <sys_id>b7e56b9107a0311085f7fc289c1ed0ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189d67765550000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 18:44:56</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>bbe56b915ea03110ca3449bd5dd2dae9</update_guid>
+        <update_guid_history>bbe56b915ea03110ca3449bd5dd2dae9:-1326234851</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1104585_animal_0_adoption_application.x_1104585_animal_0.consumer">be7627d107a0311085f7fc289c1ed094</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-08 18:47:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>73957fac393f42ec91d6c58162f71b84</sys_id>
+        <sys_metadata>33e56b9107a0311085f7fc289c1ed0e8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1104585_animal_0_adoption_application.x_1104585_animal_0.consumer</sys_name>
+        <sys_package display_value="Animal Shelter Adoption Tracker" source="x_1104585_animal_0">ea416f5d0760311085f7fc289c1ed062</sys_package>
+        <sys_parent display_value="">3be56b9107a0311085f7fc289c1ed0cc</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Animal Shelter Adoption Tracker">ea416f5d0760311085f7fc289c1ed062</sys_scope>
+        <sys_scope_delete display_value="">31a7ee5e43af4ff09d3229df9c85d4c9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_33e56b9107a0311085f7fc289c1ed0e8</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_33e56b9107a0311085f7fc289c1ed0e8">b7e56b9107a0311085f7fc289c1ed0ea</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-08 18:47:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
